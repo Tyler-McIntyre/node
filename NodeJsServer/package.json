@@ -1,0 +1,15 @@
+{
+  "name": "nodejsserver",
+  "version": "1.0.0",
+  "description": "a simple app for creating a Node.JS server that returns \"\"\u001b[DHello, World\"\u001b[D!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node"
+  },
+  "author": "tyler-mcintyre",
+  "license": "ISC"
+}
